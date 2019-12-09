@@ -50,7 +50,7 @@ Finish time: 10:47am
 
 Actual time needed to complete: 47 minutes
 
-Feature 1: Modify the contents
+Feature 2: Modify the contents
 
 Estimate of time needed to complete: 1 hour
 
@@ -59,4 +59,14 @@ Start time: 10:50am
 Finish time: 1:45pm
 
 Actual time needed to complete: FOREVER!!! (3 hours)
+
+Feature 3: Add functionality
+
+Estimate of time needed to complete: 1 hour
+
+Start time: 
+
+Finish time: 
+
+Actual time needed to complete: 
 

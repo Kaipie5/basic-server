@@ -285,9 +285,9 @@ br.clear {
 				display: none;
 			}
 
-			.container {
+			/* .container {
 				padding: 0 2em 0 2em;
-            }
+            } */
             
             @media screen and (max-width: 960px) {
 
@@ -306,7 +306,7 @@ br.clear {
                         display: none;
                     }
         
-                    .container {
+                    /* .container {
                         padding: 0 2em 0 2em;
-                    }
+                    } */
             }
