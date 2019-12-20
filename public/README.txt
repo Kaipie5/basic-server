@@ -64,9 +64,9 @@ Feature 3: Add functionality
 
 Estimate of time needed to complete: 1 hour
 
-Start time: 
+Start time: 9:40am
 
-Finish time: 
+Finish time: 11:50
 
-Actual time needed to complete: 
+Actual time needed to complete: (Unfinished)
 
